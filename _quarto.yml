@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Luis Alfredo López Gonzales"
+  description: "Portafolio profesional y Currículum Vitae"
+  navbar:
+    left:
+      - text: "Inicio"
+        href: index.qmd
+      - text: "Currículum (CV)"
+        href: content/cv.qmd
+    right:
+      - icon: github
+        href: https://github.com/lalgonzales
+      - icon: linkedin
+        href: https://linkedin.com/in/lalgonzales/
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: content/cv.css
+    toc: true
+    toc-title: "En esta página"

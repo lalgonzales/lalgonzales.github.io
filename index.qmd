@@ -1,0 +1,33 @@
+---
+title: "Luis Alfredo López Gonzales"
+subtitle: "Ingeniero Forestal | Especialista en SIG y Teledetección | Analista Geoespacial"
+image: profile.webp
+about:
+  template: jolla
+  image-shape: round
+  image-width: 15em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/lalgonzales/
+    - icon: github
+      text: Github
+      href: https://github.com/lalgonzales
+    - icon: envelope
+      text: Contacto
+      href: mailto:lalgonzales@gmail.com
+---
+
+## Sobre Mí
+
+Ingeniero Forestal con más de 10 años de experiencia en monitoreo territorial, análisis geoespacial y teledetección para la conservación de bosques y recursos naturales. Especializado en el uso de SIG (QGIS, ArcGIS), procesamiento de imágenes satelitales (Sentinel, Landsat, Google Earth Engine) y trabajo colaborativo con comunidades locales, organizaciones gubernamentales y no gubernamentales.
+
+Apoyo la toma de decisiones estratégicas mediante análisis de deforestación, cobertura boscosa y riesgos ambientales, combinando trabajo de campo, capacitación y fortalecimiento comunitario para el desarrollo sostenible.
+
+### ¿Qué encontrarás aquí?
+
+- **[Mi Currículum Vitae (CV)](content/cv.qmd)**: Un detalle completo de mi experiencia laboral, educación y herramientas técnicas.
+
+---
+
+> *"Transformando datos satelitales en acciones para la conservación."*
