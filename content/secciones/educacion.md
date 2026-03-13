@@ -8,3 +8,4 @@
 **Técnico Universitario en Dasonomía — Universidad Nacional de Ciencias Forestales (UNACIFOR)** | *Siguatepeque, Honduras*
 - Periodo de estudio y titulación: 2008 – 2011
 - Título otorgado: Técnico Universitario en Dasonomía
+

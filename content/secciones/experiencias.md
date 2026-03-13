@@ -110,7 +110,7 @@ Coordinación del proyecto "Implementación de la legalidad en los bosques comun
 - Facilitación de talleres de consulta y jornadas de socialización con organizaciones agroforestales e instituciones del Estado.
 
 **Logros y Entregables:**  
-- Diseño del plan estratégico para el cumplimiento de legalidad y fortalecimiento de la gobernanza comunitaria.
+- Elaboración del plan para cumplimiento normativo, manual de legalidad y facilitación de socializaciones con organizaciones agroforestales e instituciones del Estado. Brindé asistencia técnica integral para la preparación de planes de manejo, planes operativos, protección, manejo de viveros y declaratoria de cuencas.
 
 **Herramientas y Tecnologías:**  
 `Gestión de Proyectos` · `Gobernanza Forestal` · `Facilitación Institucional`
@@ -212,7 +212,7 @@ Contratado oficialmente como "Líder de Cuadrilla Especialista en Levantamiento 
 Gestión integral de los recursos forestales a nivel municipal y enlace directo con las autoridades ambientales.
 
 **Actividades Clave:**  
-- Gestión administrativa de permisos forestales ante el ICF para la extracción controlada de productos maderables.
+- Gestión administrativa de permisos forestales ante el ICF para la extracción controlada de productos como leña, carbón y resina.
 - Supervisión técnica en campo de planes de manejo forestal.
 - Coordinación interinstitucional con ICF, SERNA y ONGs para la implementación de políticas ambientales y protección de microcuencas.
 
@@ -233,7 +233,7 @@ Trabajo intensivo de campo y procesamiento de datos para la gestión forestal op
 **Actividades Clave:**  
 - Marcación selectiva de árboles bajo el sistema ARSE, trazado de caminos forestales y bacadillas.
 - Identificación de árboles de vida silvestre y labores de protección forestal.
-- Tabulación de datos de campo y cálculos volumétricos para las unidades de corta.
+- Tabulación de datos de campo, cálculos volumétricos para las unidades de corta y elaboración de Planes Operativos Anuales (POA).
 
 **Herramientas y Tecnologías:**  
 `Sistema ARSE` · `Cálculos Volumétricos` · `Inventario de Campo`
