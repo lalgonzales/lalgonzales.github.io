@@ -1,0 +1,3 @@
+## Perfil profesional
+
+Ingeniero Forestal con más de 10 años de experiencia en monitoreo territorial, análisis geoespacial y teledetección para la conservación de bosques y recursos naturales. Especializado en el uso de SIG (QGIS, ArcGIS), procesamiento de imágenes satelitales (Sentinel, Landsat, Google Earth Engine) y trabajo colaborativo con comunidades locales, organizaciones gubernamentales y no gubernamentales. Apoyo la toma de decisiones estratégicas mediante análisis de deforestación, cobertura boscosa y riesgos ambientales, combinando trabajo de campo, capacitación y fortalecimiento comunitario para el desarrollo sostenible.
