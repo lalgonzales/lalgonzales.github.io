@@ -1,0 +1,90 @@
+/* Estilos mejorados para la versión HTML del CV */
+
+body {
+  max-width: 950px;
+  margin: auto;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: #333333;
+  line-height: 1.6;
+}
+
+/* Encabezados y títulos principales */
+h1.title {
+  margin-bottom: 0.2rem;
+  font-weight: 800;
+  color: #1a202c;
+  font-size: 2.5rem;
+}
+
+p.subtitle {
+  margin-top: 0;
+  font-size: 1.25rem;
+  color: #4a5568;
+  font-weight: 500;
+}
+
+p.author {
+  color: #718096;
+  font-size: 0.95rem;
+  margin-bottom: 2rem;
+}
+
+/* Secciones (H2) */
+h2 {
+  border-bottom: 2px solid #e2e8f0;
+  padding-bottom: 0.5rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1.5rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #2d3748;
+}
+
+/* Trabajos / Experiencia (H3) */
+h3 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #2b6cb0;
+  margin-bottom: 0.2rem;
+  margin-top: 1.5rem;
+}
+
+/* Detalles de Empresa/Fecha (p) después de H3 */
+h3 + p {
+  font-style: italic;
+  color: #4a5568;
+  margin-top: 0;
+  margin-bottom: 0.8rem;
+  font-size: 0.95rem;
+}
+
+/* Listas (bullets) de logros y herramientas */
+ul {
+  padding-left: 1.25rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+li strong {
+  color: #2d3748;
+}
+
+/* Enlaces limpios */
+a {
+  color: #3182ce;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #2b6cb0;
+}
+
+/* Adaptación para pantallas pequeñas */
+@media (max-width: 768px) {
+  body {
+    padding: 0 1rem;
+  }
+}
