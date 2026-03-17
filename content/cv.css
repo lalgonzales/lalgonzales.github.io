@@ -8,6 +8,37 @@ body {
   line-height: 1.6;
 }
 
+/* Adapt colors for dark mode */
+body.quarto-dark {
+  color: #e2e8f0;
+}
+
+body.quarto-dark a {
+  color: #63b3ed;
+}
+
+body.quarto-dark a:hover {
+  color: #a3c4f3;
+}
+
+body.quarto-dark h2 {
+  color: #cbd5e0;
+}
+
+body.quarto-dark h3 {
+  color: #90cdf4;
+}
+
+body.quarto-dark p.subtitle,
+body.quarto-dark p.author {
+  color: #a0aec0;
+}
+
+/* Hide references section from the public HTML site (still included in PDF output) */
+.hide-in-html {
+  display: none;
+}
+
 /* Encabezados y títulos principales */
 h1.title {
   margin-bottom: 0.2rem;
