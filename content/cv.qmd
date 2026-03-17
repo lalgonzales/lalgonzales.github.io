@@ -36,4 +36,6 @@ resources:
 
 {{< include secciones/idiomas.md >}}
 
+::: {.hide-in-html}
 {{< include secciones/referencias.md >}}
+:::
