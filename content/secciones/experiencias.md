@@ -115,6 +115,40 @@ Coordinación del proyecto "Implementación de la legalidad en los bosques comun
 
 
 
+### Consultor Forestal
+**AESA - Agriconsulting Europe SA (consorcio con Euro-Funding)**
+*Tegucigalpa, Honduras · Oct 2020 – Feb 2021*
+
+**Contexto y Rol:**
+Consultor forestal para el proyecto “Manejo Sostenible de Bosques - Asistencia Técnica a Comunidades”
+
+**Actividades Clave:**  \par
+- Gestión y depuración de la información del módulo de monitoreo y fortalecimiento del sistema de información para la gestión y monitoreo forestal (SIGMOF) en relación con los planes de restauración del proyecto.  
+
+**Logros y Entregables:**
+- Actualización y depuración de la información del módulo de monitoreo, contribuyendo a la mejora del sistema de información para la gestión y monitoreo forestal (SIGMOF).
+
+
+
+### Técnico Forestal
+**Instituto de Conservación Forestal (ICF) - Inventario Nacional Forestal**
+*Honduras · Sep 2020 – Dic 2020*
+
+**Contexto y Rol:**  
+Técnico de campo para el Inventario Nacional Forestal, con responsabilidades en la recolección de datos biofísicos y socioeconómicos en parcelas de muestreo.
+
+**Actividades Clave:**  \par
+- **Inventario Forestal:** Recolección de datos en parcelas de muestreo, incluyendo mediciones de árboles, identificación de especies, y levantamiento de información socioeconómica.
+- **Planeación y Coordinación:** Coordinación con el equipo de campo para asegurar la calidad y consistencia de los datos recolectados, y apoyo en la planificación de las actividades de campo.
+
+**Logros y Entregables:**  \par
+- Contribución a la generación de datos críticos para el Inventario Nacional Forestal, apoyando la planificación y gestión sostenible de los recursos forestales a nivel nacional.
+
+**Herramientas y Tecnologías:**  
+`Inventario Forestal` · `Recolección de Datos Biofísicos` · `Silva Metricus`
+
+
+
 ### Consultor Forestal / Técnico de Campo
 **AESA - Agriconsulting Europe SA (consorcio con Euro-Funding)**  
 *Tegucigalpa, Honduras · Abr 2018 – Mar 2020*
@@ -122,8 +156,7 @@ Coordinación del proyecto "Implementación de la legalidad en los bosques comun
 **Contexto y Rol:**  
 Consultor forestal y técnico de campo en el proyecto “Manejo Sostenible de Bosques - Asistencia Técnica a Comunidades”, contribuyendo en la gestión de información geográfica, apoyo técnico a comunidades y diseño/ejecución de planes de restauración.
 
-**Actividades Clave:**  
-- Gestión y depuración de la información del módulo de monitoreo y fortalecimiento del sistema de información para la gestión y monitoreo forestal (SIGMOF).  
+**Actividades Clave:**  \par
 - Generación de mapas temáticos y productos geoespaciales para la toma de decisiones (cobertura forestal, zonificación, rutas).  
 - Asistencia técnica a comunidades y municipalidades en actividades de restauración, manejo de viveros y vigilancia forestal.  
 - Elaboración de documentos técnicos, informes y apoyo en solicitudes de fondos y seguimiento presupuestario.
@@ -134,7 +167,9 @@ Consultor forestal y técnico de campo en el proyecto “Manejo Sostenible de Bo
 - Capacitación y transferencia de capacidades a actores locales.
 
 **Herramientas y Tecnologías:**  
-`QGIS` · `ArcGIS` · `Python` · `GeoPandas` · `GDAL` · `SIGMOF`
+`ArcGIS` · `SIGMOF`
+
+
 
 ### Consultor Forestal
 **FEHCAFOR (Financiado por FAO)**  
@@ -145,13 +180,15 @@ Consultoría financiada internacionalmente por la FAO para la sistematización c
 
 **Actividades Clave:**  \par
 - **Sistematización Institucional:** Recopilación, análisis y documentación de las lecciones aprendidas y mejores prácticas del proyecto nacional de rastreabilidad maderable.
-- **Asistencia Técnica en Terreno:** Brindó apoyo a comunidades organizadas en temas de cooperativismo forestal, prácticas sostenibles de resinación y diseño de sistemas agroforestales.
+- **Asistencia Técnica en Terreno:** Apoyo a comunidades organizadas en temas de cooperativismo forestal, prácticas sostenibles de resinación y diseño de sistemas agroforestales.
 
 **Logros y Entregables:**  \par
 - Producción de un documento oficial de sistematización que sirvió de modelo para escalar las prácticas de rastreabilidad y legalidad en las cadenas de valor forestales del sector comunitario.
 
 **Herramientas y Tecnologías:**  
 `Rastreabilidad Maderable` · `Legalidad Forestal` · `Sistematización de Experiencias` · `Sistemas Agroforestales`
+
+
 
 ### Técnico FAO
 **FAO - ICF**  
@@ -179,13 +216,15 @@ Especialista consultor para el proceso de Declaratoria del Área Protegida Cuyam
 **Actividades Clave:**  \par
 - **Investigación Base:** Recolección, revisión y análisis de documentación técnica (planes de manejo, planes de ordenamiento) para estructurar el proceso de declaratoria. 
 - **Participación Comunitaria:** Coordinación y ejecución de talleres locales para levantamiento primario de información (análisis FODA, amenazas y levantamiento socioeconómico). 
-- **Análisis Geoespacial:** Análisis de amenazas y zonificación para la propuesta técnica de declaratoria, integrando componentes comunitarios y análisis espaciales. 
+- **Análisis Geoespacial:** Análisis multitemporal de coberturas, análisis de amenazas y zonificación para la propuesta técnica de declaratoria, integrando componentes comunitarios y análisis espaciales. 
 
 **Logros y Entregables:**  
-- Estructuración de la propuesta técnica y planimetría final para la declaratoria del Área Protegida, integrando componentes comunitarios y análisis espaciales.
+- Información geoespacial y técnica consolidada para la propuesta de declaratoria del Área Protegida Cuyamel-Omoa.
 
 **Herramientas y Tecnologías:**  
 `Declaratoria de Áreas Protegidas` · `Levantamiento Predial` · `Análisis de Amenazas (FODA)` · `Cartografía`
+
+
 
 ### Técnico Facilitador
 **MOCAPH**  
@@ -209,7 +248,7 @@ Facilitador técnico y operativo para la Mesa de ONGs Comanejadoras de Honduras.
 *Zona Sur, Honduras · Ene 2015 – Jul 2015*
 
 **Contexto y Rol:**  
-Contratado oficialmente como "Líder de Cuadrilla Especialista en Levantamiento Biofísico y Sistemas de Información Geográfica", bajo la supervisión directa del Jefe del Departamento de Áreas Protegidas del ICF.
+"Líder de Cuadrilla Especialista en Levantamiento Biofísico y Sistemas de Información Geográfica", bajo la supervisión directa del Jefe del Departamento de Áreas Protegidas del ICF.
 
 **Actividades Clave:**  
 - **Levantamiento Biofísico y Coordinación:** Coordinación con especialistas en fauna y recursos naturales para definir la metodología de levantamiento biofísico.
