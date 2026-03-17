@@ -14,6 +14,10 @@ format:
     number-sections: false
     css: cv.css
     embed-resources: true
+
+resources:
+  - documentos/certificados/*
+
 ---
 
 <!-- Contact moved to YAML `author` to reduce top-page spacing; title placement adjusted via header-includes -->

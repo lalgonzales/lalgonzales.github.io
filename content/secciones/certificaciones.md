@@ -6,22 +6,22 @@
 - **Certificado Médico Aeronáutico:** Expedido por la Agencia Hondureña de Aeronáutica Civil (vigente hasta 2027).
 
 ### Sistemas de Información Geográfica (Esri / ArcGIS)
-- **[Spatial Data Science: The New Frontier in Analytics](documentos/certificados/Spatial Data Science_ The New Frontier in Analytics_Certificate_10122024.pdf)** — Esri (Oct. 2024, 6 semanas)
-- **[Managing Raster Data Using ArcGIS](documentos/certificados/Managing Raster Data Using ArcGIS_Certificate_07112024.pdf)** — Esri (Jul. 2024)
-- **[GIS for Climate Action](documentos/certificados/GIS for Climate Action_Certificate_06082024.pdf)** — Esri (Jun. 2024, 6 semanas)
+- **[Spatial Data Science: The New Frontier in Analytics](documentos/certificados/Spatial_Data_Science_The_New_Frontier_in_Analytics_Certificate_10122024.pdf)** — Esri (Oct. 2024, 6 semanas)
+- **[Managing Raster Data Using ArcGIS](documentos/certificados/Managing_Raster_Data_Using_ArcGIS_Certificate_07112024.pdf)** — Esri (Jul. 2024)
+- **[GIS for Climate Action](documentos/certificados/GIS_for_Climate_Action_Certificate_06082024.pdf)** — Esri (Jun. 2024, 6 semanas)
 - **[Cartography](documentos/certificados/Cartography._Certificate_05192024.pdf)** — Esri (May. 2024, 6 semanas)
-- **[Going Places with Spatial Analysis](documentos/certificados/Going Places with Spatial Analysis_Certificate_03042024.pdf)** — Esri (Mar. 2024, 6 semanas)
-- **[Transform AEC Projects with GIS and BIM](documentos/certificados/Transform AEC Projects with GIS and BIM_Certificate_03122024.pdf)** — Esri (Mar. 2024, 4 semanas)
-- **[Python Scripting for Geoprocessing Workflows](documentos/certificados/Python Scripting for Geoprocessing Workflows_Certificate_03122024.pdf)** — Esri (Mar. 2024)
-- **[Querying Data Using ArcGIS Pro](documentos/certificados/Querying Data Using ArcGIS Pro_Certificate_03052024.pdf)** — Esri (Mar. 2024)
-- **[ArcGIS Pro Basics](documentos/certificados/ArcGIS Pro Basics_Certificate_03042024.pdf)** — Esri (Mar. 2024)
-- **[Using the R-ArcGIS Bridge](documentos/certificados/Using the R-ArcGIS Bridge_Certificate_02042024.pdf)** — Esri (Feb. 2024)
-- **[Python Scripting: Modifying Layer Properties](documentos/certificados/Python Scripting_ Modifying Layer Properties_Certificate_11072023.pdf)** — Esri (Nov. 2023)
+- **[Going Places with Spatial Analysis](documentos/certificados/Going_Places_with_Spatial_Analysis_Certificate_03042024.pdf)** — Esri (Mar. 2024, 6 semanas)
+- **[Transform AEC Projects with GIS and BIM](documentos/certificados/Transform_AEC_Projects_with_GIS_and_BIM_Certificate_03122024.pdf)** — Esri (Mar. 2024, 4 semanas)
+- **[Python Scripting for Geoprocessing Workflows](documentos/certificados/Python_Scripting_for_Geoprocessing_Workflows_Certificate_03122024.pdf)** — Esri (Mar. 2024)
+- **[Querying Data Using ArcGIS Pro](documentos/certificados/Querying_Data_Using_ArcGIS_Pro_Certificate_03052024.pdf)** — Esri (Mar. 2024)
+- **[ArcGIS Pro Basics](documentos/certificados/ArcGIS_Pro_Basics_Certificate_03042024.pdf)** — Esri (Mar. 2024)
+- **[Using the R-ArcGIS Bridge](documentos/certificados/Using_the_R-ArcGIS_Bridge_Certificate_02042024.pdf)** — Esri (Feb. 2024)
+- **[Python Scripting: Modifying Layer Properties](documentos/certificados/Python_Scripting_Modifying_Layer_Properties_Certificate_11072023.pdf)** — Esri (Nov. 2023)
 
 ### Programación y Análisis de Datos
 - **[Introduction to GIS Programming](documentos/certificados/introduction-to-gis-programming-luis-alfredo-lopez-gonzales.pdf)** — University of Tennessee (Ene. 2025)
 - **[Georreferenciación y Trazabilidad (Serie 2, EUDR en Acción)](documentos/certificados/georreferenciacion_trazabilidad.pdf)** — Atlantic Consulting Group (Jul. 2025)
-- **[Ultimate Beginner's Guide to Power BI](documentos/certificados/UGB Power BI.pdf)** — Enterprise DNA (May. 2022)
+- **[Ultimate Beginner's Guide to Power BI](documentos/certificados/UGB_Power_BI.pdf)** — Enterprise DNA (May. 2022)
 - **[Ultimate Beginner's Guide to DAX](documentos/certificados/enterpriseDNA-DAX.pdf)** — Enterprise DNA (May. 2022)
 - **[Aprender Linux desde Cero](documentos/certificados/certfificadoLinux.pdf)** — ASTERISK / Openwebinars (Sep. 2015)
 
@@ -42,5 +42,4 @@
 - **Diplomado en Gestión y Evaluación Ambiental** — UNITEC (Jul. 2014)
 
 ### Idiomas
-- **[EF SET Certificate - Nivel B2 (Upper Intermediate)](documentos/certificados/EF SET Certificate.pdf)** — EF SET (Sep. 2025)
-- **[Certificado de Nivel 3 en Inglés](documentos/certificados/certificate_level3.pdf)** — Open English (Abr. 2020)
+- **[EF SET Certificate - Nivel B2 (Upper Intermediate)](documentos/certificados/EF_SET_Certificate.pdf)** — EF SET (Sep. 2025)
