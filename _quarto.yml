@@ -34,7 +34,7 @@ format:
         'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
         })(window,document,'script','dataLayer','GTM-MC5WJHK2');</script>
         <!-- End Google Tag Manager -->        
-    include-befor-body:
+    include-before-body:
       text: |
         <!-- Google Tag Manager (noscript) -->
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MC5WJHK2"
