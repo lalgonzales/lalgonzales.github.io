@@ -335,4 +335,3 @@ Trabajo de campo y procesamiento de datos para la gestión forestal operativa.
 
 **Herramientas y Tecnologías:**  
 `Sistema ARSE` · `Cálculos Volumétricos` · `Inventario de Campo`
-
