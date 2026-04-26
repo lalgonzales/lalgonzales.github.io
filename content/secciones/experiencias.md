@@ -1,6 +1,46 @@
 ## Experiencia Profesional
 
-### Instructor de Curso Introductorio de Python para Análisis Geoespacial
+### Instructor - QGIS y Python para el Análisis Geoespacial
+**CEETI - Universidad Nacional Autónoma de Honduras (UNAH)**  
+*Honduras · Abr 2026*
+
+**Contexto y Rol:**  
+Diseño, coordinación e impartición integral del curso básico-intermedio de QGIS y Python para análisis geoespacial, ejecutado en modalidad virtual con sesiones sincrónicas para fortalecer competencias técnicas aplicadas.
+
+**Actividades Clave:**  \par
+- Diseño completo del programa formativo (20 horas, 13 sesiones) con enfoque práctico en SIG, análisis espacial y automatización con PyQGIS.
+- Desarrollo de contenidos modulares, laboratorios y recursos didácticos publicados en plataforma Quarto.
+- Coordinación académica y seguimiento de participantes mediante Google Classroom, incluyendo gestión de clases grabadas como soporte de estudio.
+
+**Logros y Entregables:**  \par
+- Implementación de una ruta formativa de 7 módulos con ejercicios aplicados y evaluación por laboratorios.
+- Transferencia de capacidades en QGIS/Python para análisis de rutas, geoprocesamiento y producción cartográfica profesional.
+
+**Herramientas y Tecnologías:**  
+`QGIS` · `PyQGIS` · `Python` · `Quarto` · `Google Classroom` · `Docencia Técnica`
+
+
+### Especialista SIG - Análisis Multitemporal y Riesgo por Crecimiento Poblacional (AP Cusuco)
+**Consultoría Técnica para AP Cusuco**  
+*Honduras · Ene 2026 - Mar 2026*
+
+**Contexto y Rol:**  
+Participación activa en la generación de insumos técnicos para evaluar dinámicas de ocupación y riesgo asociado al crecimiento poblacional dentro del AP Cusuco y su zona de buffer de 3 km.
+
+**Actividades Clave:**  \par
+- Desarrollo del análisis multitemporal de coberturas y uso del suelo (LULC) desde 2017, separando resultados para interior del parque y zona de buffer.
+- Integración de imagen satelital multifuente (Landsat, Sentinel-1/2), índices espectrales y variables topográficas con clasificadores Random Forest en GEE.
+- Implementación de validación cruzada espacial por bloques (hexágonos) para controlar sesgo por autocorrelación espacial y mejorar robustez analítica.
+
+**Logros y Entregables:**  \par
+- Generación de mapas clasificados y productos analíticos reproducibles para identificar presiones por crecimiento poblacional y cambio de cobertura vegetal.
+- Aporte directo a la base técnica para la priorización de acciones de gestión y planificación territorial en PANACU.
+
+**Herramientas y Tecnologías:**  
+`Google Earth Engine (GEE)` · `Python` · `GeoPandas` · `Random Forest` · `LULC` · `Validación Espacial`
+
+
+### Instructor - Curso Introductorio de Python para Análisis Geoespacial
 **Instituto de Conservación Forestal (ICF) / Centro de Información y Patrimonio Forestal (CIPF)**  
 *Honduras · Ago 2025 – Nov 2025*
 
@@ -8,7 +48,7 @@
 Instructor especializado en impartir formación técnica en programación Python aplicada a análisis geoespacial, enfocado en fortalecer las capacidades del sector forestal hondureño.
 
 **Actividades Clave:**  \par
-- Diseño e desarrollo de un curso intensivo de 10 semanas sobre fundamentos de Python para datos geográficos.  
+- Diseño y desarrollo de un curso intensivo de 10 semanas sobre fundamentos de Python para datos geográficos.  
 - Desarrollo de materiales didácticos en español, incluyendo notebooks interactivos con ejemplos reales de monitoreo forestal.
 - Adaptación de contenidos técnicos complejos para profesionales del sector ambiental.
 
