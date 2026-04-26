@@ -254,9 +254,9 @@ Contrato de servicios profesionales con FAO enfocado en el manejo de datos geoes
 Especialista consultor para el proceso de Declaratoria del Área Protegida Cuyamel-Omoa, con la responsabilidad de brindar la fundamentación técnica y geoespacial.
 
 **Actividades Clave:**  \par
-- **Investigación Base:** Recolección, revisión y análisis de documentación técnica (planes de manejo, planes de ordenamiento) para estructurar el proceso de declaratoria. 
-- **Participación Comunitaria:** Coordinación y ejecución de talleres locales para levantamiento primario de información (análisis FODA, amenazas y levantamiento socioeconómico). 
-- **Análisis Geoespacial:** Análisis multitemporal de coberturas, análisis de amenazas y zonificación para la propuesta técnica de declaratoria, integrando componentes comunitarios y análisis espaciales. 
+- **Investigación Base:** Recolección, revisión y análisis de documentación técnica (planes de manejo, planes de ordenamiento) para estructurar el proceso de declaratoria.
+- **Participación Comunitaria:** Coordinación y ejecución de talleres locales para levantamiento primario de información (análisis FODA, amenazas y levantamiento socioeconómico).
+- **Análisis Geoespacial:** Análisis multitemporal de coberturas, análisis de amenazas y zonificación para la propuesta técnica de declaratoria, integrando componentes comunitarios y análisis espaciales.
 
 **Logros y Entregables:**  
 - Información geoespacial y técnica consolidada para la propuesta de declaratoria del Área Protegida Cuyamel-Omoa.
