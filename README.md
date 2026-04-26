@@ -18,3 +18,13 @@ quarto render
 ```
 
 Los archivos generados se ubicarán en la carpeta `_site/`.
+
+## Pre-commit
+
+El repositorio incluye una configuración básica de `pre-commit` para validar archivos Markdown/Quarto y YAML antes de crear commits.
+
+```bash
+pip install pre-commit
+pre-commit install
+pre-commit run --all-files
+```
