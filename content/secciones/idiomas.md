@@ -1,4 +1,4 @@
 ## Idiomas
 
 - Español: nativo  
-- Inglés: intermedio
+- Inglés: B2 (EF SET, Upper Intermediate)
