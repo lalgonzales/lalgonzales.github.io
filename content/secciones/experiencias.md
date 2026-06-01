@@ -1,5 +1,25 @@
 ## Experiencia Profesional
 
+### Especialista SIG - Base de Datos Geoespacial y Cartografía Social (Proyecto MUCAMPAZ)
+**FEHCAFOR / FAO Honduras**  
+*Honduras · May 2026*
+
+**Contexto y Rol:**  
+Especialista SIG para la sistematización geoespacial de Áreas Forestales Asignadas (AFA), orientada al fortalecimiento de la gobernanza territorial mediante cartografía social participativa.
+
+**Actividades Clave:**  \par
+- Integración y depuración de información geográfica de 6 AFAs, consolidando capas temáticas y de verificación de límites.
+- Diseño y estructuración de una base de datos geoespacial por territorio y una base general, con paquetes en formato GeoPackage para análisis y gestión institucional.
+- Elaboración y edición cartográfica de mapas sociales participativos y mapas de verificación de límites para procesos de socialización comunitaria.
+
+**Logros y Entregables:**  \par
+- Entrega de bases de datos geoespaciales organizadas por AFA y a nivel general para Agua Fría, CHABOSUJI, Fronteras de Oriente, La Guadalupe, Troncones y Villa Santa.
+- Producción de mapas de cartografía social y verificación de límites utilizados como insumo técnico para la toma de decisiones en el marco del proyecto MUCAMPAZ.
+
+**Herramientas y Tecnologías:**  
+`QGIS` · `GeoPackage (GPKG)` · `Shapefile` · `Cartografía Social` · `SIG Participativo` · `GPS`
+
+
 ### Instructor - QGIS y Python para el Análisis Geoespacial
 **CEETI - Universidad Nacional Autónoma de Honduras (UNAH)**  
 *Honduras · Abr 2026*
@@ -159,13 +179,13 @@ Coordinación del proyecto "Implementación de la legalidad en los bosques comun
 **AESA - Agriconsulting Europe SA (consorcio con Euro-Funding)**
 *Tegucigalpa, Honduras · Oct 2020 – Feb 2021*
 
-**Contexto y Rol:**
+**Contexto y Rol:** \par
 Consultor forestal para el proyecto “Manejo Sostenible de Bosques - Asistencia Técnica a Comunidades”
 
 **Actividades Clave:**  \par
 - Gestión y depuración de la información del módulo de monitoreo y fortalecimiento del sistema de información para la gestión y monitoreo forestal (SIGMOF) en relación con los planes de restauración del proyecto.  
 
-**Logros y Entregables:**
+**Logros y Entregables:** \par
 - Actualización y depuración de la información del módulo de monitoreo, contribuyendo a la mejora del sistema de información para la gestión y monitoreo forestal (SIGMOF).
 
 
