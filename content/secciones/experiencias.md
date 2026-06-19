@@ -1,7 +1,7 @@
 ## Experiencia Profesional
 
 ### Especialista SIG - Base de Datos Geoespacial y Cartografía Social (Proyecto MUCAMPAZ)
-**FEHCAFOR / FAO Honduras**  
+**FEHCAFOR**  
 *Honduras · May 2026*
 
 **Contexto y Rol:**  
