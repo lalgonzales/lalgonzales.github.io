@@ -26,6 +26,7 @@
 - **[Aprender Linux desde Cero](documentos/certificados/certfificadoLinux.pdf)** — ASTERISK / Openwebinars (Sep. 2015)
 
 ### Monitoreo Forestal y Teledetección
+- **[Mapatón Regional Anticipatorio LATAM 2026](documentos/certificados/mapatonLATAM2026_HOT_UNV.pdf)** — Humanitarian OpenStreetMap Team (LACHUB) / Programa de Voluntarios ONU (Sep. 2026) — *Participación activa, 500+ ediciones en OpenStreetMap*
 - **[UC6 - Incendios: Cartografía de Eventos, Peligro y Recuperación](documentos/certificados/UC6_Incendios_catografia_eventos.pdf)** — Copernicus LAC (Mar. 2025)
 - **[Uso y Manejo SIG y su Aplicación en el Manejo de Recursos Naturales](documentos/certificados/usoymanejosig_instructor.pdf)** — SAG (Dic. 2024) — *Participación como Instructor*
 - **[Taller de Entrenamiento para la construcción del Mapa de cobertura forestal Honduras 2024](documentos/certificados/tallerMapFores24.pdf)** — ICF (Sep. 2024)
