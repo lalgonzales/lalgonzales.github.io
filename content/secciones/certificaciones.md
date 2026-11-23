@@ -19,6 +19,7 @@
 - **[Python Scripting: Modifying Layer Properties](documentos/certificados/Python_Scripting_Modifying_Layer_Properties_Certificate_11072023.pdf)** — Esri (Nov. 2023)
 
 ### Programación y Análisis de Datos
+- **[QGIS Training](documentos/certificados/qgisTraining_UNMaps.pdf)** — UN Maps Learning Hub (Nov. 2026) — *SIG libre, análisis espacial avanzado, caja de herramientas de procesamiento y composición de mapas*
 - **[Introduction to GIS Programming](documentos/certificados/introduction-to-gis-programming-luis-alfredo-lopez-gonzales.pdf)** — University of Tennessee (Ene. 2025)
 - **[Georreferenciación y Trazabilidad (Serie 2, EUDR en Acción)](documentos/certificados/georreferenciacion_trazabilidad.pdf)** — Atlantic Consulting Group (Jul. 2025)
 - **[Ultimate Beginner's Guide to Power BI](documentos/certificados/UGB_Power_BI.pdf)** — Enterprise DNA (May. 2022)
