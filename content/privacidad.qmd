@@ -1,0 +1,47 @@
+---
+title: "Política de Privacidad"
+description: "Qué datos se recopilan de los visitantes de este sitio y cómo controlarlos."
+toc: true
+---
+
+*Última actualización: noviembre de 2026*
+
+## Quién es el responsable
+
+Este sitio es el portafolio profesional y currículum de **Luis Alfredo López Gonzales**. Está publicado en **GitHub Pages**; su código está en <https://github.com/lalgonzales/lalgonzales.github.io>.
+
+## Datos que se recopilan
+
+El sitio **no recopila datos personales directamente**: no tiene formularios, cuentas de usuario ni comentarios.
+
+### Google Analytics (vía Google Tag Manager)
+
+Si usted lo acepta en el aviso de cookies, el sitio carga **Google Tag Manager (GTM-MC5WJHK2)**, que activa **Google Analytics 4** para saber cómo se usa el sitio:
+
+- Páginas visitadas y tiempo de permanencia
+- País o región aproximada (Google Analytics 4 no registra ni almacena direcciones IP)
+- Tipo de dispositivo y navegador
+- Fuente de la visita (enlace directo, buscador, red social)
+
+Estos datos no incluyen su nombre ni su correo electrónico. **Si no acepta, Google Tag Manager y Google Analytics no se cargan.** Google procesa estos datos según su [Política de Privacidad](https://policies.google.com/privacy).
+
+## Cookies
+
+Las cookies de este sitio son solo de análisis estadístico, nunca publicitarias, y se crean únicamente después de aceptar:
+
+| Cookie | Propósito | Duración |
+|:-------|:----------|:---------|
+| `_ga` | Distinguir visitantes únicos | 2 años |
+| `_ga_*` | Mantener el estado de la sesión | 2 años |
+
+El aviso guarda su elección en cookies propias del sitio (`cookie_consent_level`, `cookie_consent_user_accepted`, `cookie_consent_user_consent_token`) para no volver a preguntarle; estas no envían datos a nadie.
+
+**Cambiar su elección:** <a href="#" id="open_preferences_center">Preferencias de cookies</a>. También puede borrar las cookies del sitio en su navegador o instalar el [complemento de inhabilitación de Google Analytics](https://tools.google.com/dlpage/gaoptout).
+
+## Sus derechos
+
+Puede retirar su consentimiento en cualquier momento con el enlace de arriba. Como este sitio no almacena datos personales propios, para acceder a los datos que Google haya recopilado o eliminarlos, use las herramientas de [su cuenta de Google](https://myaccount.google.com/) o la [Política de Privacidad de Google](https://policies.google.com/privacy).
+
+## Enlaces a otros sitios
+
+Este sitio enlaza a otros (GitHub, LinkedIn, instituciones emisoras de certificados). Esta política aplica solo a este sitio; cada sitio enlazado tiene la suya.
