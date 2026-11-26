@@ -1,20 +1,37 @@
 ## Experiencia Profesional
 
-### Especialista SIG - Base de Datos Geoespacial y Cartografía Social (Proyecto MUCAMPAZ)
+### Desarrollo del Sitio Web Institucional y Mapa de Cooperativas Afiliadas
 **FEHCAFOR**  
-*Honduras · May 2026*
+*Honduras · Ago 2026 – Actualidad · Consultoría a tiempo parcial*
 
 **Contexto y Rol:**  
-Especialista SIG para la sistematización geoespacial de Áreas Forestales Asignadas (AFA), orientada al fortalecimiento de la gobernanza territorial mediante cartografía social participativa.
+Desarrollo del nuevo sitio web de la Federación, con información de sus servicios a las cooperativas en manejo forestal y forestería comunitaria.
 
 **Actividades Clave:**  \par
-- Integración y depuración de información geográfica de 6 AFAs, consolidando capas temáticas y de verificación de límites.
-- Diseño y estructuración de una base de datos geoespacial por territorio y una base general, con paquetes en formato GeoPackage para análisis y gestión institucional.
-- Elaboración y edición cartográfica de mapas sociales participativos y mapas de verificación de límites para procesos de socialización comunitaria.
+- Desarrollo del sitio web institucional (WordPress, tema hijo propio) con flujo de integración y despliegue continuo.
+- Construcción del mapa en línea de las cooperativas afiliadas.
+- Administración del alojamiento, dominio y correo institucional.
+
+**Herramientas y Tecnologías:**  
+`WordPress` · `PHP` · `GitHub Actions` · `Mapas Web` · `Administración de Hosting`
+
+
+### Especialista SIG - Base de Datos Geoespacial y Cartografía Social (Proyecto MUCAMPAZ)
+**FEHCAFOR (Carta de Acuerdo con FAO)**  
+*Honduras · Oct 2025 – May 2026 · Consultoría a tiempo parcial*
+
+**Contexto y Rol:**  
+Especialista SIG en el marco de la Carta de Acuerdo entre la FAO y FEHCAFOR "Construcción de paz territorial y gobernanza en áreas forestales asignadas a través de la cartografía social" (proyecto UNJP/HON/058/PBF "Mujeres resilientes al cambio climático").
+
+**Actividades Clave:**  \par
+- Diseño y construcción de la base de datos geoespacial de conflictos, usos del suelo y sitios de importancia en las Áreas Forestales Asignadas (AFA) de las cooperativas participantes.
+- Integración de los datos oficiales del ICF (áreas asignadas, planes de manejo forestal y microcuencas) con la cartografía social levantada por las comunidades.
+- Acompañamiento técnico a los talleres de cartografía social participativa y levantamiento de campo con GPS.
+- Análisis de cobertura y uso de la tierra en las áreas de las cooperativas.
 
 **Logros y Entregables:**  \par
 - Entrega de bases de datos geoespaciales organizadas por AFA y a nivel general para Agua Fría, CHABOSUJI, Fronteras de Oriente, La Guadalupe, Troncones y Villa Santa.
-- Producción de mapas de cartografía social y verificación de límites utilizados como insumo técnico para la toma de decisiones en el marco del proyecto MUCAMPAZ.
+- Elaboración de los mapas temáticos y del informe técnico de la base de datos entregados a la FAO.
 
 **Herramientas y Tecnologías:**  
 `QGIS` · `GeoPackage (GPKG)` · `Shapefile` · `Cartografía Social` · `SIG Participativo` · `GPS`
@@ -120,7 +137,7 @@ Contratado bajo la denominación oficial de TÉCNICO GEOMÁTICO / TIG para la Of
 
 ### Consultor de Sistemas de Información Geográfica
 **Centro de Estudios Marinos**  
-*Honduras · Nov 2023 – Ene 2024*
+*Honduras · Nov 2023 – Ene 2024 · Consultoría a tiempo parcial*
 
 **Contexto y Rol:**  
 Consultoría técnica enfocada en el análisis multitemporal de ecosistemas marino-costeros en el Caribe hondureño.
@@ -157,7 +174,7 @@ Contratado bajo la normativa de consultoría del Banco Interamericano de Desarro
 
 ### Coordinador de Proyecto
 **FEHCAFOR**  
-*Honduras · Feb 2021 – Mar 2022*
+*Honduras · Ene 2021 – Mar 2022*
 
 **Contexto y Rol:**  
 Coordinación del proyecto "Implementación de la legalidad en los bosques comunitarios asignados a organizaciones agroforestales bajo contrato de manejo forestal sostenible".
