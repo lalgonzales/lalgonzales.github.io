@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: _site
+  # The Europass CV is a PDF for applications, rendered on its own (europass/), not a site page.
+  render:
+    - "*.qmd"
+    - "!europass/"
 
 website:
   title: "Luis Alfredo López Gonzales"
