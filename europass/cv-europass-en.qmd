@@ -1,0 +1,164 @@
+---
+title: "Luis Alfredo López Gonzales"
+subtitle: "Curriculum Vitae (Europass)"
+lang: en
+format:
+  typst:
+    papersize: a4
+    margin:
+      x: 1.6cm
+      y: 1.4cm
+    fontsize: 9.5pt
+    mainfont: "Noto Sans"
+    include-in-header:
+      text: |
+        #show heading.where(level: 1): it => block(above: 1.2em, below: 0.6em)[
+          #set text(fill: rgb("#003399"), size: 11.5pt, weight: "bold")
+          #upper(it.body)
+          #v(-0.5em)
+          #line(length: 100%, stroke: 0.6pt + rgb("#003399"))
+        ]
+        #show heading.where(level: 2): set text(size: 10pt, weight: "bold")
+        #show heading.where(level: 2): set block(above: 0.9em, below: 0.35em)
+        #show table: set text(hyphenate: false)
+        #set par(justify: false, leading: 0.5em)
+        #set list(spacing: 0.45em)
+        #set table(stroke: 0.4pt + rgb("#9aa5c4"), inset: 4pt)
+---
+
+<!-- Europass CV (europass.europa.eu): source of truth for the Spanish CV is content/secciones/. Dates are dd/mm/yyyy where a document states them, mm/yyyy otherwise. -->
+
+**Nationality:** Honduran · **Address:** Tegucigalpa, Honduras\
+**Email:** lalgonzales@gmail.com · **LinkedIn:** linkedin.com/in/lalgonzales · **GitHub:** github.com/lalgonzales · **Website:** lalgonzales.github.io
+
+## About me
+
+Forest engineer with more than ten years of work in forest monitoring, geospatial analysis and remote sensing for the conservation of forests and natural resources in Honduras. I build reproducible workflows in Python, PostGIS, QGIS and Google Earth Engine for land-cover change, deforestation alerts and cadastre, and I teach QGIS and Python to public-sector teams. I have worked for the national forest institute (ICF), international cooperation (FAO, IDB-funded projects) and community forestry federations.
+
+## Work experience
+
+### GIS Specialist / Technician, Engineering Department
+**Fondo Social para la Vivienda (FOSOVI), Liquidation Commission** · Tegucigalpa, Honduras · 20/08/2026 – Current
+
+- Design and administer the geospatial database of the institutional cadastre (PostgreSQL/PostGIS), joining case files, lots, blocks and property-registry data.
+- Analyse the situation of lots and blocks per neighbourhood and propose an action for each case file, with maps by sector for decision-making.
+- Digitise CAD plans into the database, with quality control against deeds and construction tables; field data collection in QGIS and QField, synchronised to the database.
+
+### Web Developer (part-time consultancy)
+**Federación Hondureña de Cooperativas Agroforestales (FEHCAFOR)** · Honduras · 13/08/2026 – Current
+
+- Federation website (WordPress, own child theme) with continuous integration and deployment; online map of the affiliated cooperatives.
+
+### GIS Specialist, Participatory Mapping (part-time consultancy)
+**FEHCAFOR, under a Letter of Agreement with FAO** · Honduras · 10/2025 – 05/2026
+
+- Geospatial database of conflicts, land uses and sites of importance in the forest areas assigned to six cooperatives (project UNJP/HON/058/PBF), joining official ICF data with community social mapping.
+- Technical support to participatory mapping workshops and GPS field surveys; land-cover analysis; thematic maps and technical report delivered to FAO.
+
+### Instructor, QGIS and Python for Geospatial Analysis
+**CEETI, Universidad Nacional Autónoma de Honduras (UNAH)** · Online · 16/03/2026 – 15/05/2026
+
+- Designed and taught a 20-hour course (13 live sessions, 7 modules) on spatial analysis and PyQGIS automation, with materials published as a Quarto site.
+
+### GIS Specialist, Land-Cover Change Analysis (consultancy)
+**Cusuco National Park (PANACU)** · Honduras · 01/2026 – 03/2026
+
+- Multi-temporal land use and land cover classification since 2017 for the park and a 3 km buffer, with Landsat, Sentinel-1/2, spectral indices and topography in Google Earth Engine (Random Forest).
+- Spatial block cross-validation (hexagons) to control spatial autocorrelation in the accuracy assessment.
+
+### Forest Monitoring Technician
+**Instituto de Conservación Forestal (ICF), Centre for Forest Information and Heritage (CIPF)** · Tegucigalpa, Honduras · 01/07/2024 – 31/12/2025
+
+- Processed satellite deforestation alerts (GLAD) from raster to PostGIS for the national forest monitoring system, in Python and GDAL.
+- Prepared CIPF project profiles, followed up their technical and financial progress, reviewed technical reports in procurement processes and represented the CIPF before other institutions.
+- Designed and taught a 10-week introductory course of Python for geospatial analysis to ICF staff (08/2025 – 11/2025), with open materials as a Jupyter Book.
+
+### Geomatics Technician
+**ICF, National Reforestation Programme (PNR)** · Tegucigalpa, Honduras · 17/07/2023 – 06/2024
+
+- Administered the programme's national spatial database and produced the spatial and documentary files to follow up reforestation projects.
+
+### GIS Consultant (part-time)
+**Centro de Estudios Marinos** · Honduras · 11/2023 – 01/2024
+
+- Mapped mangrove forest (2018 and 2023) and seagrass (2023) in the department of Colón with Python notebooks and Google Earth Engine.
+
+### Field Technician for Technical Assistance
+**AEPAS-H, Sustainable Forest Management Project (IDB-funded)** · Comayagua, Honduras · 01/07/2022 – 12/2022
+
+- Field technical assistance and monitoring of ecological restoration plans in public forests damaged by the pine bark beetle, in priority watersheds of Francisco Morazán and Comayagua, under IDB and ICF standards; local training and monthly reports.
+
+### Project Coordinator
+**FEHCAFOR** · Honduras · 01/2021 – 03/2022
+
+- Coordinated the project "Implementing legality in community forests assigned to agroforestry organisations under sustainable forest management contracts": baseline, forest legality manual, consultation workshops with organisations and state institutions; technical assistance for management and operational plans, nurseries and watershed declarations.
+
+### Forestry Consultant
+**AESA – Agriconsulting Europe SA (consortium with Euro-Funding)** · Tegucigalpa, Honduras · 23/04/2018 – 31/03/2020 and 10/2020 – 02/2021
+
+- Project "Sustainable Forest Management – Technical Assistance to Communities": thematic maps and GIS workflows for forest monitoring, restoration plans approved by ICF, technical assistance to communities and municipalities, and clean-up of the monitoring module of the national forest information system (SIGMOF).
+
+### Forest Technician, National Forest Inventory
+**ICF** · Honduras · 09/2020 – 12/2020
+
+- Biophysical and socio-economic data collection in sample plots.
+
+### Earlier experience (2013 – 2017)
+
+- **Forestry Consultant**, FEHCAFOR (FAO-funded), 10/2017 – 12/2017: systematisation of a national timber-traceability pilot.
+- **FAO Technician**, FAO – ICF, 11/2016 – 08/2017: national database of protected-area management plans; support to the National Forest Inventory.
+- **Natural Resources and GIS Specialist**, ICF – HGPC, 02/2016 – 06/2016: technical and spatial basis for declaring the Cuyamel-Omoa protected area.
+- **Technical Facilitator**, MOCAPH (network of protected-area co-management NGOs), 08/2015 – 01/2016: management plans of 10 protected areas.
+- **GIS Specialist and Crew Leader**, ICF, 01/2015 – 07/2015: land-use change and zoning of the southern protected areas subsystem.
+- **Head of the Municipal Forest Office**, Municipality of San Juan de Ojojona, 05/2013 – 04/2015.
+- **Forest Technician**, CONFAA, 02/2013 – 03/2013: tree marking, volume calculations, annual operating plans.
+
+## Education and training
+
+### Forest Engineer (Bachelor's degree, EQF level 6)
+**Universidad Nacional de Ciencias Forestales (UNACIFOR)** · Siguatepeque, Honduras · 2016 – 2024 (coursework 2016 – 2017; thesis and degree 2024)
+
+### University Technician in Forestry (EQF level 5)
+**Universidad Nacional de Ciencias Forestales (UNACIFOR)** · Siguatepeque, Honduras · 2008 – 2011
+
+### Selected training: geospatial technologies
+
+- Introduction to GIS Programming, University of Tennessee (01/2025)
+- Esri MOOCs: Spatial Data Science (10/2024), GIS for Climate Action (06/2024), Cartography (05/2024), Going Places with Spatial Analysis (03/2024); courses on raster data, ArcGIS Pro and Python scripting for geoprocessing (2023 – 2024)
+- QGIS Training, UN Maps Learning Hub (11/2026)
+- Regional Anticipatory Mapathon LATAM 2026, Humanitarian OpenStreetMap Team and UN Volunteers (09/2026), 500+ OpenStreetMap edits
+
+### Selected training: natural resources and environment
+
+- Geographic Planning for Territorial Development, FAO (02/2026)
+- Wildfires: event mapping, hazard and recovery (UC6), Copernicus LAC (03/2025)
+- Georeferencing and Traceability (EUDR in Action, series 2), Atlantic Consulting Group (07/2025)
+- National forest cover map 2024 training workshop, ICF (09/2024)
+- Land Use Assessment on Land Representation, Coalition for Rainforest Nations (04/2024)
+- Restoration of Degraded Forest Lands, CONAFOR / ICF (11/2023)
+- Basic Incident Command System, ICF / USFS / USDA (10/2019)
+- Diploma in Environmental Management and Assessment, UNITEC (07/2014)
+
+## Language skills
+
+**Mother tongue:** Spanish
+
+| Language | Listening | Reading | Spoken production | Spoken interaction | Writing |
+|:--|:-:|:-:|:-:|:-:|:-:|
+| English | B2 | B2 | B2 | B2 | B2 |
+
+Levels: A1 and A2 basic user; B1 and B2 independent user; C1 and C2 proficient user (Common European Framework of Reference for Languages). English certified by EF SET at B2, Upper Intermediate (09/2025).
+
+## Digital skills
+
+- **GIS and remote sensing:** QGIS, PyQGIS, QField, ArcGIS Pro, Google Earth Engine, SEPAL, Sentinel-1/2 and Landsat processing, GLAD alerts
+- **Programming and data:** Python (GeoPandas, Rasterio, GDAL/OGR, Pandas), SQL, PostgreSQL/PostGIS, Jupyter, Quarto
+- **Development and collaboration:** Git and GitHub, GitHub Actions, Docker, WordPress, Power BI, Google Workspace, Microsoft Office
+
+## Driving licence
+
+Honduran licence for light vehicles (B) and motorcycles; experience driving 4x4 vehicles on rural roads for fieldwork.
+
+## Other
+
+- **Drone pilot (RPAS) licence**, Honduran Civil Aviation Agency, theory and practice; aeronautical medical certificate valid to 2027.
