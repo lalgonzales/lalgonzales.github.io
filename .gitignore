@@ -1,6 +1,11 @@
-/.quarto/
+.quarto/
 **/*.quarto_ipynb
 _site/
 .DS_Store
 
 /private/
+
+# Rendered Europass CV (quarto render europass/cv-europass-en.qmd)
+europass/*.pdf
+
+/.quarto/
