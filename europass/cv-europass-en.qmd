@@ -79,6 +79,7 @@ Forest engineer with more than ten years of work in forest monitoring, geospatia
 **ICF, National Reforestation Programme (PNR)** · Tegucigalpa, Honduras · 17/07/2023 – 06/2024
 
 - Administered the programme's national spatial database and produced the spatial and documentary files to follow up reforestation projects.
+- Supported the PNR's Tableau dashboards published on SIGMOF, the ICF forest information system.
 
 ### GIS Consultant (part-time)
 **Centro de Estudios Marinos** · Honduras · 11/2023 – 01/2024

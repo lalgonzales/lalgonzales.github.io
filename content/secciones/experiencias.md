@@ -129,12 +129,13 @@ Contratado bajo la denominación oficial de TÉCNICO GEOMÁTICO / TIG para la Of
 **Actividades Clave:**  \par
 - **Administración de Datos Espaciales:** Administración de la estructura, actividad y confiabilidad de la base de datos del programa.
 - **Monitoreo y Apoyo Técnico:** Generación de archivos documentales/espaciales para el seguimiento de proyectos y actividades del PNR.
+- **Visualización:** Apoyo en la elaboración de los tableros Tableau del PNR publicados en el SIGMOF.
 
 **Logros y Entregables:**  \par
 - Aseguramiento de la integridad de la base de datos nacional y facilitación técnica en la gestión de información de reportes nacionales del PNR.
 
 **Herramientas y Tecnologías:**  
-`Geomática` · `Administración de Bases de Datos` · `Cartografía` · `Diagnóstico Forestal` · `Georreferenciación`
+`Geomática` · `Administración de Bases de Datos` · `Cartografía` · `Tableau` · `Diagnóstico Forestal` · `Georreferenciación`
 
 ### Consultor de Sistemas de Información Geográfica
 **Centro de Estudios Marinos**  
