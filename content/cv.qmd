@@ -2,6 +2,11 @@
 title: "Luis Alfredo López Gonzales"
 subtitle: "Especialista en SIG y Python para Análisis Geoespacial"
 author: "Email: lalgonzales@gmail.com · LinkedIn: linkedin.com/in/lalgonzales/"
+author-meta: "Luis Alfredo López Gonzales"
+open-graph:
+  description: "Currículum de Luis Alfredo López Gonzales: SIG, teledetección y Python aplicados a bosques y territorio en Honduras, con experiencia y certificados."
+twitter-card:
+  description: "Currículum de Luis Alfredo López Gonzales: SIG, teledetección y Python aplicados a bosques y territorio en Honduras, con experiencia y certificados."
 lang: es
 
 format:
