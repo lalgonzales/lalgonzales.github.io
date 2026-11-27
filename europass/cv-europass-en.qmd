@@ -151,7 +151,7 @@ Levels: A1 and A2 basic user; B1 and B2 independent user; C1 and C2 proficient u
 
 ## Digital skills
 
-- **GIS and remote sensing:** QGIS, PyQGIS, QField, ArcGIS Pro, Google Earth Engine, SEPAL, Sentinel-1/2 and Landsat processing, GLAD alerts
+- **GIS and remote sensing:** QGIS, PyQGIS, QField, ArcGIS Pro, Google Earth Engine, Google Satellite Embedding (AlphaEarth), SEPAL, Sentinel-1/2 and Landsat processing, GLAD alerts
 - **Programming and data:** Python (GeoPandas, Rasterio, GDAL/OGR, Pandas), SQL, PostgreSQL/PostGIS, Jupyter, Quarto
 - **Development and collaboration:** Git and GitHub, GitHub Actions, Docker, WordPress, Power BI, Google Workspace, Microsoft Office
 
