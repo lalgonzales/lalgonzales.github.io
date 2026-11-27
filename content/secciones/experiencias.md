@@ -62,16 +62,17 @@ Diseño, coordinación e impartición integral del curso básico-intermedio de Q
 *Honduras · Ene 2026 - Mar 2026*
 
 **Contexto y Rol:**  
-Participación activa en la generación de insumos técnicos para evaluar dinámicas de ocupación y riesgo asociado al crecimiento poblacional dentro del AP Cusuco y su zona de buffer de 3 km.
+Análisis multitemporal de cobertura y uso del suelo 2012-2025 del Parque Nacional Cusuco (PANACU) y un buffer de análisis de 3 km (39,670 ha: 19,607 ha de parque y 20,064 ha de buffer), para la consultoría "Monitoreo y evaluación de contratos de usufructo familiar y del crecimiento poblacional de las comunidades y su impacto sobre el Parque Nacional Cusuco".
 
 **Actividades Clave:**  \par
-- Desarrollo del análisis multitemporal de coberturas y uso del suelo (LULC) desde 2017, separando resultados para interior del parque y zona de buffer.
-- Integración de imagen satelital multifuente (Landsat, Sentinel-1/2), índices espectrales y variables topográficas con clasificadores Random Forest en GEE.
-- Implementación de validación cruzada espacial por bloques (hexágonos) para controlar sesgo por autocorrelación espacial y mejorar robustez analítica.
+- Mapas de cobertura y uso del suelo (LULC) de 2012, 2016, 2018, 2020, 2023 y 2025, con análisis de cambio 2012-2016 y 2018-2025, separando interior del parque y buffer.
+- Clasificación Random Forest en Google Earth Engine: mosaicos bianuales Landsat para 2012 y 2016, y Google Satellite Embedding V1 de AlphaEarth Foundations desde 2017 (vectores anuales de 64 dimensiones a 10 m), con índices espectrales y topografía SRTM.
+- Validación cruzada espacial por bloques (hexágonos) para controlar la autocorrelación espacial en la evaluación de exactitud.
+- Verificación de campo con sobrevuelos de dron y entrevistas a actores locales.
 
 **Logros y Entregables:**  \par
-- Generación de mapas clasificados y productos analíticos reproducibles para identificar presiones por crecimiento poblacional y cambio de cobertura vegetal.
-- Aporte directo a la base técnica para la priorización de acciones de gestión y planificación territorial en PANACU.
+- Evaluación de 32 Contratos de Usufructo Familiar (263 ha), con una ficha digital de monitoreo por contrato.
+- Estudio de población: 95 asentamientos (47 dentro del parque, 48 en el buffer) y unas 26,500 personas en el área de estudio.
 
 **Herramientas y Tecnologías:**  
 `Google Earth Engine (GEE)` · `Python` · `GeoPandas` · `Random Forest` · `LULC` · `Validación Espacial`
@@ -128,12 +129,13 @@ Contratado bajo la denominación oficial de TÉCNICO GEOMÁTICO / TIG para la Of
 **Actividades Clave:**  \par
 - **Administración de Datos Espaciales:** Administración de la estructura, actividad y confiabilidad de la base de datos del programa.
 - **Monitoreo y Apoyo Técnico:** Generación de archivos documentales/espaciales para el seguimiento de proyectos y actividades del PNR.
+- **Visualización:** Apoyo en la elaboración de los tableros Tableau del PNR publicados en el SIGMOF.
 
 **Logros y Entregables:**  \par
 - Aseguramiento de la integridad de la base de datos nacional y facilitación técnica en la gestión de información de reportes nacionales del PNR.
 
 **Herramientas y Tecnologías:**  
-`Geomática` · `Administración de Bases de Datos` · `Cartografía` · `Diagnóstico Forestal` · `Georreferenciación`
+`Geomática` · `Administración de Bases de Datos` · `Cartografía` · `Tableau` · `Diagnóstico Forestal` · `Georreferenciación`
 
 ### Consultor de Sistemas de Información Geográfica
 **Centro de Estudios Marinos**  
