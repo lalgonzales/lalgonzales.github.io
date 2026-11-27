@@ -5,10 +5,16 @@ project:
   render:
     - "*.qmd"
     - "!europass/"
+  resources:
+    - preview.png
 
 website:
   title: "Luis Alfredo López Gonzales"
   description: "Portafolio profesional y Currículum Vitae"
+  site-url: https://lalgonzales.github.io/
+  image: preview.png
+  open-graph: true
+  twitter-card: true
   navbar:
     left:
       - text: "Inicio"
