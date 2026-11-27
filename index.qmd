@@ -2,6 +2,10 @@
 title: "Luis Alfredo López Gonzales"
 subtitle: "Ingeniero Forestal | Especialista en SIG y Teledetección | Analista Geoespacial"
 image: profile.webp
+open-graph:
+  image: preview.png
+twitter-card:
+  image: preview.png
 about:
   template: jolla
   image-shape: round
