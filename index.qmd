@@ -4,8 +4,10 @@ subtitle: "Ingeniero Forestal | Especialista en SIG y Teledetección | Analista 
 image: profile.webp
 open-graph:
   image: preview.png
+  description: "Ingeniero forestal hondureño especializado en SIG, teledetección y análisis geoespacial con QGIS, Google Earth Engine, Python y PostGIS."
 twitter-card:
   image: preview.png
+  description: "Ingeniero forestal hondureño especializado en SIG, teledetección y análisis geoespacial con QGIS, Google Earth Engine, Python y PostGIS."
 about:
   template: jolla
   image-shape: round
