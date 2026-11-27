@@ -17,7 +17,6 @@ format:
     toc-location: right
     number-sections: false
     css: cv.css
-    embed-resources: true
 
 resources:
   - documentos/certificados/*
