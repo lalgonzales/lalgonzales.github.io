@@ -63,8 +63,10 @@ Forest engineer with more than ten years of work in forest monitoring, geospatia
 ### GIS Specialist, Land-Cover Change Analysis (consultancy)
 **Cusuco National Park (PANACU)** · Honduras · 01/2026 – 03/2026
 
-- Multi-temporal land use and land cover classification since 2017 for the park and a 3 km buffer, with Landsat, Sentinel-1/2, spectral indices and topography in Google Earth Engine (Random Forest).
-- Spatial block cross-validation (hexagons) to control spatial autocorrelation in the accuracy assessment.
+- Land use and land cover maps for 2012, 2016, 2018, 2020, 2023 and 2025 over 39,670 ha (the park and a 3 km analysis buffer), with change analysis for 2012-2016 and 2018-2025.
+- Random Forest classification in Google Earth Engine: Landsat biannual mosaics for 2012 and 2016, Google Satellite Embedding V1 from AlphaEarth Foundations from 2017 (annual 64-dimension vectors at 10 m), with spectral indices and SRTM topography.
+- Spatial block cross-validation (hexagons) to control spatial autocorrelation in the accuracy assessment; field check with drone flights and interviews.
+- Assessed 32 family usufruct contracts (263 ha), one digital monitoring sheet each; population study of 95 settlements (about 26,500 people).
 
 ### Forest Monitoring Technician
 **Instituto de Conservación Forestal (ICF), Centre for Forest Information and Heritage (CIPF)** · Tegucigalpa, Honduras · 01/07/2024 – 31/12/2025
