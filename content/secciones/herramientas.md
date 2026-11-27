@@ -6,3 +6,4 @@
 - **Gestión de Bases de Datos:** PostGIS (SQL espacial), integración de datos relacionales, manejo de grandes volúmenes de datos espaciales.
 - **Visualización y Reportes:** Elaboración de dashboards interactivos, infografías y reportes ejecutivos; herramientas como Tableau, Power BI.
 - **Herramientas Colaborativas y de Gestión:** Entornos de desarrollo moderno, Git/GitHub, Suite de Google Workspace y Microsoft Office.
+- **Portafolio público:** #30DayMapChallenge 2026 (https://lalgonzales.github.io/30DaysChallenges/), mapas diarios con datos abiertos de Honduras y otros países, cada uno con su notebook y sus fuentes.

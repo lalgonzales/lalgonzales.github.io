@@ -10,7 +10,7 @@
 - **lalgonzales.github.io** (https://github.com/lalgonzales/lalgonzales.github.io): Sitio personal con portafolio de proyectos GIS y análisis de datos.
 
 ### Educativos y Demostraciones
-- **30DaysChallenges** (https://github.com/lalgonzales/30DaysChallenges): Retos diarios de programación y análisis de datos, enfocados en Python y GIS.
+- **#30DayMapChallenge 2026** (https://lalgonzales.github.io/30DaysChallenges/): Mapas diarios con datos abiertos de Honduras y otros países, cada uno con su notebook y sus fuentes; también piezas del #30DayChartChallenge. Código en https://github.com/lalgonzales/30DaysChallenges.
 - **datasets** (https://github.com/lalgonzales/datasets): Colección de datasets para análisis geoespacial y machine learning.
 - **scriptsVarios** (https://github.com/lalgonzales/scriptsVarios): Scripts diversos para automatización de tareas GIS, procesamiento de imágenes satelitales y análisis de datos.
 
