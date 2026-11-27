@@ -1,6 +1,22 @@
 ## Experiencia Profesional
 
-### Desarrollo del Sitio Web Institucional y Mapa de Cooperativas Afiliadas
+### Especialista SIG
+**Institución pública**  
+*Honduras · Ago 2026 – Actualidad*
+
+**Contexto y Rol:**  
+Diseño y administración de la base de datos geoespacial de un catastro institucional (PostgreSQL/PostGIS): expedientes, lotes, bloques y registro de la propiedad.
+
+**Actividades Clave:**  \par
+- Digitalización de planos CAD a lotes con control de calidad contra escrituras.
+- Levantamiento de campo digital (QGIS/QField) sincronizado con la base.
+- Análisis por colonia con mapas para la toma de decisiones, y generación de planos desde la base.
+
+**Herramientas y Tecnologías:**  
+`PostgreSQL/PostGIS` · `QGIS` · `QField` · `QGIS Server` · `CAD`
+
+
+### Desarrollo del Sitio Web Institucional
 **FEHCAFOR**  
 *Honduras · Ago 2026 – Actualidad · Consultoría a tiempo parcial*
 
@@ -9,11 +25,30 @@ Desarrollo del nuevo sitio web de la Federación, con información de sus servic
 
 **Actividades Clave:**  \par
 - Desarrollo del sitio web institucional (WordPress, tema hijo propio) con flujo de integración y despliegue continuo.
-- Construcción del mapa en línea de las cooperativas afiliadas.
+- Mapa en línea de las cooperativas afiliadas, en la sección Cooperativas del sitio.
 - Administración del alojamiento, dominio y correo institucional.
 
 **Herramientas y Tecnologías:**  
 `WordPress` · `PHP` · `GitHub Actions` · `Mapas Web` · `Administración de Hosting`
+
+
+### Técnico Forestal - Plan de Salvamento
+**Desarrollo inmobiliario privado**  
+*Distrito Central, Francisco Morazán · Jul 2026 – Nov 2026 · Consultoría independiente*
+
+**Contexto y Rol:**  
+Elaboración y gestión ante el ICF, como técnico forestal colegiado (COLPROFORH 1138), de un plan de salvamento para remover árboles en las áreas de viviendas, calles internas y obras de retención de taludes de una lotificación con licencia ambiental.
+
+**Actividades Clave:**  \par
+- Inventario de los árboles del área con formulario de campo en QField y fotografías georreferenciadas.
+- Cálculo de volumen con las tablas de Reid & Collins para pino y factor de forma para roble, encino, quebracho y otras latifoliadas.
+- Mapas de ubicación y croquis, expediente técnico y seguimiento del trámite en la oficina regional del ICF.
+
+**Logros y Entregables:**  \par
+- Plan de salvamento aprobado por el ICF en noviembre de 2026 (resolución FM-PS-012-2026): 0.5615 ha y 12.91 m³, con el compromiso de plantar 480 árboles.
+
+**Herramientas y Tecnologías:**  
+`QGIS` · `QField` · `Python` · `Inventario Forestal` · `Normativa Forestal (ICF)`
 
 
 ### Especialista SIG - Base de Datos Geoespacial y Cartografía Social (Proyecto MUCAMPAZ)
