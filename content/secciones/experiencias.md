@@ -1,6 +1,22 @@
 ## Experiencia Profesional
 
-### Desarrollo del Sitio Web Institucional y Mapa de Cooperativas Afiliadas
+### Especialista SIG
+**Institución pública**  
+*Honduras · Ago 2026 – Actualidad*
+
+**Contexto y Rol:**  
+Diseño y administración de la base de datos geoespacial de un catastro institucional (PostgreSQL/PostGIS): expedientes, lotes, bloques y registro de la propiedad.
+
+**Actividades Clave:**  \par
+- Digitalización de planos CAD a lotes con control de calidad contra escrituras.
+- Levantamiento de campo digital (QGIS/QField) sincronizado con la base.
+- Análisis por colonia con mapas para la toma de decisiones, y generación de planos desde la base.
+
+**Herramientas y Tecnologías:**  
+`PostgreSQL/PostGIS` · `QGIS` · `QField` · `QGIS Server` · `CAD`
+
+
+### Desarrollo del Sitio Web Institucional
 **FEHCAFOR**  
 *Honduras · Ago 2026 – Actualidad · Consultoría a tiempo parcial*
 
@@ -9,7 +25,7 @@ Desarrollo del nuevo sitio web de la Federación, con información de sus servic
 
 **Actividades Clave:**  \par
 - Desarrollo del sitio web institucional (WordPress, tema hijo propio) con flujo de integración y despliegue continuo.
-- Construcción del mapa en línea de las cooperativas afiliadas.
+- Mapa en línea de las cooperativas afiliadas, en la sección Cooperativas del sitio.
 - Administración del alojamiento, dominio y correo institucional.
 
 **Herramientas y Tecnologías:**  

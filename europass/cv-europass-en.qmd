@@ -37,17 +37,17 @@ Forest engineer with more than ten years of work in forest monitoring, geospatia
 
 ## Work experience
 
-### GIS Specialist / Technician, Engineering Department
-**Fondo Social para la Vivienda (FOSOVI), Liquidation Commission** · Tegucigalpa, Honduras · 20/08/2026 – Current
+### GIS Specialist
+**Public institution** · Honduras · 08/2026 – Current
 
-- Design and administer the geospatial database of the institutional cadastre (PostgreSQL/PostGIS), joining case files, lots, blocks and property-registry data.
-- Analyse the situation of lots and blocks per neighbourhood and propose an action for each case file, with maps by sector for decision-making.
-- Digitise CAD plans into the database, with quality control against deeds and construction tables; field data collection in QGIS and QField, synchronised to the database.
+- Design and administer the geospatial database of an institutional cadastre (PostgreSQL/PostGIS): case files, lots, blocks and property registry.
+- Digitise CAD plans into lots with quality control against deeds; digital field survey (QGIS/QField) synchronised to the database; analysis per neighbourhood with maps for decision-making; plans generated from the database.
+- Tools: PostgreSQL/PostGIS, QGIS, QField, QGIS Server, CAD.
 
-### Web Developer (part-time consultancy)
+### Institutional Website Development (part-time consultancy)
 **Federación Hondureña de Cooperativas Agroforestales (FEHCAFOR)** · Honduras · 13/08/2026 – Current
 
-- Federation website (WordPress, own child theme) with continuous integration and deployment; online map of the affiliated cooperatives.
+- Federation website (WordPress, own child theme) with continuous integration and deployment; online map of the affiliated cooperatives, in the site's Cooperativas section.
 
 ### Forest Technician, Salvage Plan (independent consultancy)
 **Private housing development** · Distrito Central, Honduras · 07/2026 – 11/2026
