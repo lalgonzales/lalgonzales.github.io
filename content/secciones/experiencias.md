@@ -16,6 +16,25 @@ Desarrollo del nuevo sitio web de la Federación, con información de sus servic
 `WordPress` · `PHP` · `GitHub Actions` · `Mapas Web` · `Administración de Hosting`
 
 
+### Técnico Forestal - Plan de Salvamento
+**Desarrollo inmobiliario privado**  
+*Distrito Central, Francisco Morazán · Jul 2026 – Nov 2026 · Consultoría independiente*
+
+**Contexto y Rol:**  
+Elaboración y gestión ante el ICF, como técnico forestal colegiado (COLPROFORH 1138), de un plan de salvamento para remover árboles en las áreas de viviendas, calles internas y obras de retención de taludes de una lotificación con licencia ambiental.
+
+**Actividades Clave:**  \par
+- Inventario de los árboles del área con formulario de campo en QField y fotografías georreferenciadas.
+- Cálculo de volumen con las tablas de Reid & Collins para pino y factor de forma para roble, encino, quebracho y otras latifoliadas.
+- Mapas de ubicación y croquis, expediente técnico y seguimiento del trámite en la oficina regional del ICF.
+
+**Logros y Entregables:**  \par
+- Plan de salvamento aprobado por el ICF en noviembre de 2026 (resolución FM-PS-012-2026): 0.5615 ha y 12.91 m³, con el compromiso de plantar 480 árboles.
+
+**Herramientas y Tecnologías:**  
+`QGIS` · `QField` · `Python` · `Inventario Forestal` · `Normativa Forestal (ICF)`
+
+
 ### Especialista SIG - Base de Datos Geoespacial y Cartografía Social (Proyecto MUCAMPAZ)
 **FEHCAFOR (Carta de Acuerdo con FAO)**  
 *Honduras · Oct 2025 – May 2026 · Consultoría a tiempo parcial*
