@@ -390,7 +390,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- Contact moved to YAML `author` to reduce top-page spacing; title placement adjusted via header-includes -->
 <section id="perfil-profesional" class="level2">
 <h2 class="anchored" data-anchor-id="perfil-profesional">Perfil profesional</h2>
-<p>Ingeniero Forestal con más de 10 años de experiencia en monitoreo territorial, análisis geoespacial y teledetección aplicada a la conservación de bosques y recursos naturales. Especializado en SIG (QGIS, ArcGIS), procesamiento de imágenes satelitales (Sentinel, Landsat, Google Earth Engine) y desarrollo de flujos de trabajo reproducibles para análisis multitemporal y evaluación de riesgo ambiental. He trabajado con instituciones públicas, cooperación y organizaciones territoriales, aportando evidencia técnica para la toma de decisiones y la planificación. Complemento el trabajo analítico con formación técnica en QGIS y Python, facilitando la transferencia de capacidades en equipos multidisciplinarios.</p>
+<p>Ingeniero Forestal con más de 10 años de experiencia en monitoreo territorial, análisis geoespacial y teledetección aplicada a la conservación de bosques y recursos naturales. Especializado en SIG (QGIS, ArcGIS), procesamiento de imágenes satelitales (Sentinel, Landsat) en Google Earth Engine, incluido Google Satellite Embedding, y desarrollo de flujos de trabajo reproducibles para análisis multitemporal y evaluación de riesgo ambiental. He trabajado con instituciones públicas, cooperación y organizaciones territoriales, aportando evidencia técnica para la toma de decisiones y la planificación. Complemento el trabajo analítico con formación técnica en QGIS y Python, facilitando la transferencia de capacidades en equipos multidisciplinarios.</p>
 </section>
 <section id="competencias-principales" class="level2">
 <h2 class="anchored" data-anchor-id="competencias-principales">Competencias Principales</h2>
@@ -406,11 +406,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h2 class="anchored" data-anchor-id="herramientas-tecnológicas">Herramientas Tecnológicas</h2>
 <ul>
 <li><strong>Programación y Análisis Geoespacial:</strong> Python (GeoPandas, Pandas, Folium, Rasterio, GDAL), Geemap, automatización y scripting avanzado en Notebooks.</li>
-<li><strong>SIG y Teledetección Avanzada:</strong> QGIS, ArcGIS Pro, Google Earth Engine (GEE), SEPAL, Global Forest Watch (GFW), FIRMS.</li>
+<li><strong>SIG y Teledetección Avanzada:</strong> QGIS, ArcGIS Pro, Google Earth Engine (GEE), Google Satellite Embedding (AlphaEarth), SEPAL, Global Forest Watch (GFW), FIRMS.</li>
 <li><strong>Procesamiento de Imágenes Satelitales:</strong> Sentinel-1, Sentinel-2, Landsat-8, Landsat-9, Copernicus Open Access Hub, USGS Earth Explorer, monitoreo de deforestación (alertas GLAD).</li>
 <li><strong>Gestión de Bases de Datos:</strong> PostGIS (SQL espacial), integración de datos relacionales, manejo de grandes volúmenes de datos espaciales.</li>
 <li><strong>Visualización y Reportes:</strong> Elaboración de dashboards interactivos, infografías y reportes ejecutivos; herramientas como Tableau, Power BI.</li>
 <li><strong>Herramientas Colaborativas y de Gestión:</strong> Entornos de desarrollo moderno, Git/GitHub, Suite de Google Workspace y Microsoft Office.</li>
+<li><strong>Portafolio público:</strong> #30DayMapChallenge 2026 (https://lalgonzales.github.io/30DaysChallenges/), mapas diarios con datos abiertos de Honduras y otros países, cada uno con su notebook y sus fuentes.</li>
 </ul>
 </section>
 <section id="experiencia-profesional" class="level2">
@@ -476,17 +477,18 @@ Diseño, coordinación e impartición integral del curso básico-intermedio de Q
 <p><strong>Consultoría Técnica para AP Cusuco</strong><br>
 <em>Honduras · Ene 2026 - Mar 2026</em></p>
 <p><strong>Contexto y Rol:</strong><br>
-Participación activa en la generación de insumos técnicos para evaluar dinámicas de ocupación y riesgo asociado al crecimiento poblacional dentro del AP Cusuco y su zona de buffer de 3 km.</p>
+Análisis multitemporal de cobertura y uso del suelo 2012-2025 del Parque Nacional Cusuco (PANACU) y un buffer de análisis de 3 km (39,670 ha: 19,607 ha de parque y 20,064 ha de buffer), para la consultoría “Monitoreo y evaluación de contratos de usufructo familiar y del crecimiento poblacional de las comunidades y su impacto sobre el Parque Nacional Cusuco”.</p>
 <strong>Actividades Clave:</strong>
 <ul>
-<li>Desarrollo del análisis multitemporal de coberturas y uso del suelo (LULC) desde 2017, separando resultados para interior del parque y zona de buffer.</li>
-<li>Integración de imagen satelital multifuente (Landsat, Sentinel-1/2), índices espectrales y variables topográficas con clasificadores Random Forest en GEE.</li>
-<li>Implementación de validación cruzada espacial por bloques (hexágonos) para controlar sesgo por autocorrelación espacial y mejorar robustez analítica.</li>
+<li>Mapas de cobertura y uso del suelo (LULC) de 2012, 2016, 2018, 2020, 2023 y 2025, con análisis de cambio 2012-2016 y 2018-2025, separando interior del parque y buffer.</li>
+<li>Clasificación Random Forest en Google Earth Engine: mosaicos bianuales Landsat para 2012 y 2016, y Google Satellite Embedding V1 de AlphaEarth Foundations desde 2017 (vectores anuales de 64 dimensiones a 10 m), con índices espectrales y topografía SRTM.</li>
+<li>Validación cruzada espacial por bloques (hexágonos) para controlar la autocorrelación espacial en la evaluación de exactitud.</li>
+<li>Verificación de campo con sobrevuelos de dron y entrevistas a actores locales.</li>
 </ul>
 <strong>Logros y Entregables:</strong>
 <ul>
-<li>Generación de mapas clasificados y productos analíticos reproducibles para identificar presiones por crecimiento poblacional y cambio de cobertura vegetal.</li>
-<li>Aporte directo a la base técnica para la priorización de acciones de gestión y planificación territorial en PANACU.</li>
+<li>Evaluación de 32 Contratos de Usufructo Familiar (263 ha), con una ficha digital de monitoreo por contrato.</li>
+<li>Estudio de población: 95 asentamientos (47 dentro del parque, 48 en el buffer) y unas 26,500 personas en el área de estudio.</li>
 </ul>
 <p><strong>Herramientas y Tecnologías:</strong><br>
 <code>Google Earth Engine (GEE)</code> · <code>Python</code> · <code>GeoPandas</code> · <code>Random Forest</code> · <code>LULC</code> · <code>Validación Espacial</code></p>
@@ -542,13 +544,14 @@ Contratado bajo la denominación oficial de TÉCNICO GEOMÁTICO / TIG para la Of
 <ul>
 <li><strong>Administración de Datos Espaciales:</strong> Administración de la estructura, actividad y confiabilidad de la base de datos del programa.</li>
 <li><strong>Monitoreo y Apoyo Técnico:</strong> Generación de archivos documentales/espaciales para el seguimiento de proyectos y actividades del PNR.</li>
+<li><strong>Visualización:</strong> Apoyo en la elaboración de los tableros Tableau del PNR publicados en el SIGMOF.</li>
 </ul>
 <strong>Logros y Entregables:</strong>
 <ul>
 <li>Aseguramiento de la integridad de la base de datos nacional y facilitación técnica en la gestión de información de reportes nacionales del PNR.</li>
 </ul>
 <p><strong>Herramientas y Tecnologías:</strong><br>
-<code>Geomática</code> · <code>Administración de Bases de Datos</code> · <code>Cartografía</code> · <code>Diagnóstico Forestal</code> · <code>Georreferenciación</code></p>
+<code>Geomática</code> · <code>Administración de Bases de Datos</code> · <code>Cartografía</code> · <code>Tableau</code> · <code>Diagnóstico Forestal</code> · <code>Georreferenciación</code></p>
 </section>
 <section id="consultor-de-sistemas-de-información-geográfica" class="level3">
 <h3 class="anchored" data-anchor-id="consultor-de-sistemas-de-información-geográfica">Consultor de Sistemas de Información Geográfica</h3>
